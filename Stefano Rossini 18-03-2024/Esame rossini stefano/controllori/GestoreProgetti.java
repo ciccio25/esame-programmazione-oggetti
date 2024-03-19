@@ -4,7 +4,7 @@
  * Il sistema dovrà consentire il monitoraggio dello stato dei progetti, l'allocazione delle risorse umane 
  * e materiali, la pianificazione delle attività e la valutazione delle prestazioni del team.
  * 
- * Software scritto da Stefano Rossini matricola s1098092 UNIVPM 
+ * Software scritto da Stefano Rossini matricola sXXXXXXX UNIVPM 
  * per l'esame di Programmazione ad Oggetti 
  * 
  * Data 18/03/2024
